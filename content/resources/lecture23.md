@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information about history, mechanisms and applications
   of RNAi.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/432f8b88a64ad8a2aae7b877019a4532_lecture23.pdf
+file: /media/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/432f8b88a64ad8a2aae7b877019a4532_lecture23.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture23.pdf
 uid: 432f8b88-a64a-d8a2-aae7-b877019a4532

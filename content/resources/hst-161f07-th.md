@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/8e99753cb130aca669f5fe52628d3d7a_hst-161f07-th.jpg
+file: /media/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/8e99753cb130aca669f5fe52628d3d7a_hst-161f07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Diagram of two approaches for collecting families for a linkage analysis.\
@@ -11,6 +11,8 @@ image_metadata:
   credit: ''
   image-alt: Pedigrees showing two approaches for collecting families for linkage
     analysis.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: hst-161f07-th.jpg
 uid: 8e99753c-b130-aca6-69f5-fe52628d3d7a
