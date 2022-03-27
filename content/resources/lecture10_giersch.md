@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0243ff27-e8c1-fd3d-968c-5d53d72e00d2
 resourcetype: Document
 title: lecture10_giersch.pdf
 uid: 06bd6b83-74c5-91b5-6a3e-4d87dc524cd7

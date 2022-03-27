@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0243ff27-e8c1-fd3d-968c-5d53d72e00d2
 resourcetype: Document
 title: lecture03_hand.pdf
 uid: 1c5959ee-06be-ec3d-44a5-7e75b7e44708
