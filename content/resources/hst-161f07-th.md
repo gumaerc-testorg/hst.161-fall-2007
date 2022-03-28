@@ -13,6 +13,7 @@ image_metadata:
     analysis.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: hst-161f07-th.jpg
 uid: 8e99753c-b130-aca6-69f5-fe52628d3d7a
