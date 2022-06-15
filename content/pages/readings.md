@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: 'The calendar section presents reading assignments as preparation for
+  lectures, for short papers and questions, and for problem sets.  '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 4803bb78-4690-d035-5080-dfbdd9f92bb7
 ---

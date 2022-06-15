@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about chromosome abnormality and cytogeneticnomenclature.
-file: /media/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/c6c4ec1a563421a16b4df99c31e53f12_chromosomes.pdf
+file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/c6c4ec1a563421a16b4df99c31e53f12_chromosomes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: chromosomes.pdf
 uid: c6c4ec1a-5634-21a1-6b4d-f99c31e53f12
 ---
+This resource discusses about chromosome abnormality and cytogeneticnomenclature.
+

@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and lecturers, student
+  notes, and the lecture slides used for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: 0243ff27-e8c1-fd3d-968c-5d53d72e00d2
 ---
@@ -34,13 +35,13 @@ STUDENT NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Mendelian genetics, part 1 ({{< resource_link 48ec9739-fcea-532d-1f78-b5a97650eed6 "PDF" >}})
+Mendelian genetics, part 1 ({{% resource_link 48ec9739-fcea-532d-1f78-b5a97650eed6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 D. Housman
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 8844d06c-c6ee-904f-9e2c-58df9056f8d7 "PDF" >}})
+({{% resource_link 8844d06c-c6ee-904f-9e2c-58df9056f8d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +56,7 @@ Hypertrophic cardiomyopathy
 C. Seidman
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 4a623f2d-3c7b-ee27-f04e-59d61b4ed1d4 "PDF" >}})
+({{% resource_link 4a623f2d-3c7b-ee27-f04e-59d61b4ed1d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,11 +67,11 @@ C. Seidman
 {{< tdopen >}}
 
 
-Discussion section example ({{< resource_link 5734324a-d919-6127-9d2c-6f967094ac6e "PDF" >}})
+Discussion section example ({{% resource_link 5734324a-d919-6127-9d2c-6f967094ac6e "PDF" %}})
 
 Muscular dystrophies
 
-Handout ({{< resource_link 1c5959ee-06be-ec3d-44a5-7e75b7e44708 "PDF" >}}) (Courtesy of Salil Garg. Used with permission.)
+Handout ({{% resource_link 1c5959ee-06be-ec3d-44a5-7e75b7e44708 "PDF" %}}) (Courtesy of Salil Garg. Used with permission.)
 
 
 {{< tdclose >}}
@@ -84,7 +85,7 @@ R. Brown
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link cd90005f-4d61-2e93-5624-03072f4dc8d1 "PDF" >}})
+({{% resource_link cd90005f-4d61-2e93-5624-03072f4dc8d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +112,7 @@ R. Parad
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d4526bcc-77be-cc68-9d9a-089c38753165 "PDF" >}})
+({{% resource_link d4526bcc-77be-cc68-9d9a-089c38753165 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +139,7 @@ D. Nathans
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link b2082480-83e4-ec1a-2a11-a0387b61c60a "PDF" >}})
+({{% resource_link b2082480-83e4-ec1a-2a11-a0387b61c60a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +150,7 @@ D. Nathans
 {{< tdopen >}}
 
 
-Mechanisms of mutation ({{< resource_link 956efc33-a543-2a81-bd1d-01fe668a6d46 "PDF" >}})
+Mechanisms of mutation ({{% resource_link 956efc33-a543-2a81-bd1d-01fe668a6d46 "PDF" %}})
 
 Hemophilia
 
@@ -165,7 +166,7 @@ E. Neufeld
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link eefa5f8e-1a20-d56e-6f19-582115812aa3 "PDF" >}})
+({{% resource_link eefa5f8e-1a20-d56e-6f19-582115812aa3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +193,7 @@ P. Greenstein
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d2f967ef-36a9-0a55-2b39-66b2ddba5041 "PDF" >}})
+({{% resource_link d2f967ef-36a9-0a55-2b39-66b2ddba5041 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +241,7 @@ A. Giersch
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link b2bb27e2-d5e0-18a3-a520-8246c84f0e05 "PDF" >}})
+({{% resource_link b2bb27e2-d5e0-18a3-a520-8246c84f0e05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +254,7 @@ A. Giersch
 
 William's syndrome
 
-Chromosomes, part 2 ({{< resource_link 06bd6b83-74c5-91b5-6a3e-4d87dc524cd7 "PDF" >}})
+Chromosomes, part 2 ({{% resource_link 06bd6b83-74c5-91b5-6a3e-4d87dc524cd7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -267,7 +268,7 @@ A. Giersch
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c174d697-c16c-ff33-655e-0235831a1eea "PDF" >}})
+({{% resource_link c174d697-c16c-ff33-655e-0235831a1eea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +295,7 @@ H. Levy
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 454e60c9-55fd-9e95-565d-44fda068168c "PDF" >}})
+({{% resource_link 454e60c9-55fd-9e95-565d-44fda068168c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,7 +322,7 @@ M. Kenna
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 58ed95fd-1881-3ca0-2656-818c08639e00 "PDF" >}})
+({{% resource_link 58ed95fd-1881-3ca0-2656-818c08639e00 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -363,7 +364,7 @@ J. Cha
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c23b51dd-3311-f773-1cc9-6e5f08ecd611 "PDF" >}})
+({{% resource_link c23b51dd-3311-f773-1cc9-6e5f08ecd611 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -390,7 +391,7 @@ P. Greenstein
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link b028fea9-7748-ded1-2611-489434a8e9d6 "PDF" >}})
+({{% resource_link b028fea9-7748-ded1-2611-489434a8e9d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +433,7 @@ O. Khwajai
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 662e2e97-b653-8b21-d1f8-69e7e31d2680 "PDF" >}})
+({{% resource_link 662e2e97-b653-8b21-d1f8-69e7e31d2680 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -447,7 +448,7 @@ Facioscapulohumeral Dystrophy (FSHD)
 D. Housman
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 2b101e15-23c7-bf1f-4a15-13aecbce6bdb "PDF" >}})
+({{% resource_link 2b101e15-23c7-bf1f-4a15-13aecbce6bdb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -474,7 +475,7 @@ D. Housman
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 531842dd-ec9f-e95d-8275-08c533cb4c84 "PDF" >}})
+({{% resource_link 531842dd-ec9f-e95d-8275-08c533cb4c84 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -489,7 +490,7 @@ Colon cancer
 D. Chung
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 21374e33-e480-ac1f-5026-d1b5584797cb "PDF" >}})
+({{% resource_link 21374e33-e480-ac1f-5026-d1b5584797cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -516,7 +517,7 @@ G. Daley
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 07b12c19-0598-beb1-0e4c-8cfd6d3b6154 "PDF" >}})
+({{% resource_link 07b12c19-0598-beb1-0e4c-8cfd6d3b6154 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -543,7 +544,7 @@ J. Garber
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 1ff4dee0-e1b4-67f2-eb5a-d3294cd29d56 "PDF" >}})
+({{% resource_link 1ff4dee0-e1b4-67f2-eb5a-d3294cd29d56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -564,7 +565,7 @@ Gene therapy
 D. Housman
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 8a512e50-eccb-2f22-9aa0-6b3dacc51999 "PDF" >}})
+({{% resource_link 8a512e50-eccb-2f22-9aa0-6b3dacc51999 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -579,7 +580,7 @@ RNAi
  
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 432f8b88-a64a-d8a2-aae7-b877019a4532 "PDF" >}})
+({{% resource_link 432f8b88-a64a-d8a2-aae7-b877019a4532 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -600,7 +601,7 @@ Review
 Students
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 642617b3-a6e5-ae42-e5c4-43ad4b281b99 "PDF" >}})
+({{% resource_link 642617b3-a6e5-ae42-e5c4-43ad4b281b99 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
