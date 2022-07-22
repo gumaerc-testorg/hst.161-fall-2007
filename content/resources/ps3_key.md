@@ -5,6 +5,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3_key.pdf
 uid: 66f7bad2-b19d-c6c1-eab8-f83bb9a066ba
 ---
 This resource contains solution to problem set 3.
-

@@ -5,6 +5,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture06.pdf
 uid: eefa5f8e-1a20-d56e-6f19-582115812aa3
 ---
 This resource contains information about hemophilia.
-

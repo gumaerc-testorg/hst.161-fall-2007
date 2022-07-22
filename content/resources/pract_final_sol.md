@@ -5,6 +5,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pract_final_sol.pdf
 uid: 46c31959-78d1-a2b7-ea52-f7fb564818d3
 ---
 This resource contains quizes related to this course.
-

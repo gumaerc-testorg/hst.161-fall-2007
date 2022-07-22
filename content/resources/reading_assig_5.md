@@ -5,6 +5,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reading_assig_5.pdf
 uid: 0dfbe4bb-63d1-0597-a4d7-acfd1e49cdb1
 ---
 This resource discusses about Imprinting, X inactivation and Epigenetics.
-

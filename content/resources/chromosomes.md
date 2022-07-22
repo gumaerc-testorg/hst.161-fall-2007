@@ -5,6 +5,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chromosomes.pdf
 uid: c6c4ec1a-5634-21a1-6b4d-f99c31e53f12
 ---
 This resource discusses about chromosome abnormality and cytogeneticnomenclature.
-

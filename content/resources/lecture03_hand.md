@@ -6,6 +6,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture03_hand.pdf
 uid: 1c5959ee-06be-ec3d-44a5-7e75b7e44708
 ---
 This resource discusses about the normal motor unit, the motoneuron and the neuromuscular junction.
-

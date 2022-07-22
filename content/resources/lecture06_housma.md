@@ -5,6 +5,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture06_housma.pdf
 uid: 956efc33-a543-2a81-bd1d-01fe668a6d46
 ---
 This resource discusses about thalassemias, hemoglobinopathies and thalassemias.
-

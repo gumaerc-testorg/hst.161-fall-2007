@@ -6,6 +6,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture16.pdf
 uid: 662e2e97-b653-8b21-d1f8-69e7e31d2680
 ---
 This resource contains information about diagnostic criteria and exclusion criteria of rett syndrome.
-

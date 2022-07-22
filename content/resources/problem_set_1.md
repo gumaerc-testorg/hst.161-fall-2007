@@ -6,6 +6,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: problem_set_1.pdf
 uid: 9bfa5ff5-1b30-6e70-9451-cb27961292e5
 ---
 This resource brings problems on the topics hypertrophic cardiomyopathy and hypertrophic cardiomyopathy.
-

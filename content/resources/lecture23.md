@@ -6,6 +6,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture23.pdf
 uid: 432f8b88-a64a-d8a2-aae7-b877019a4532
 ---
 This resource contains information about history, mechanisms and applications of RNAi.
-

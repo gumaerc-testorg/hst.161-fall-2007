@@ -10,6 +10,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ uid: 06bd6b83-74c5-91b5-6a3e-4d87dc524cd7
 This resource discusses about fish, unbalanced sructural abnormalities and deletions (a.k.a., contiguous gene
 syndromes, segmental aneusomy
 syndromes).
-

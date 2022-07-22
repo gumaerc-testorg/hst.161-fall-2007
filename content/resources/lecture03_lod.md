@@ -6,6 +6,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture03_lod.pdf
 uid: 5734324a-d919-6127-9d2c-6f967094ac6e
 ---
 This resource discusses about DNA sequencevariation, accuracy of DNA distribution in meiosis and genetic linkage.
-

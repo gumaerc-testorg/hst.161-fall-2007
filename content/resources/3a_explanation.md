@@ -6,6 +6,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 3a_explanation.pdf
 uid: 57efb5b9-6d4f-3a11-b0d7-909096848f43
 ---
 This resource contains questions on distance between the disease gene and the closest recombination breakpoint.
-

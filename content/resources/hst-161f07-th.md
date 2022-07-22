@@ -13,10 +13,10 @@ image_metadata:
   image-alt: Pedigrees showing two approaches for collecting families for linkage
     analysis.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-161f07-th.jpg
 uid: 8e99753c-b130-aca6-69f5-fe52628d3d7a
 ---
 New image Upload
-

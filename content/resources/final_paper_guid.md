@@ -6,6 +6,7 @@ file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_paper_guid.pdf
 uid: e6778945-1c3f-209f-e442-c4132952aca6
 ---
 This resource discusses about choosing a topic/mentor, final paper and final discussion sections.
-
