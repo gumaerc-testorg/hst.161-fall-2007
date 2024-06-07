@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about genomic and epigenomic studies
   of human cancers.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/8a512e50eccb2f229aa06b3dacc51999_lecture22.pdf
+file_size: 112168
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about genetic hearing impairment.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/58ed95fd18813ca02656818c08639e00_lecture12.pdf
+file_size: 84854
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
