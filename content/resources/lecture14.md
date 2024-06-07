@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains informations about myotonic dystrophy.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/b028fea97748ded12611489434a8e9d6_lecture14.pdf
+file_size: 79256
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

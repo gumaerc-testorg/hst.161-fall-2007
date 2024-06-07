@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses about choosing a topic/mentor, final paper and
   final discussion sections.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/e67789451c3f209fe442c4132952aca6_final_paper_guid.pdf
+file_size: 37157
 file_type: application/pdf
 learning_resource_types:
 - Assignments

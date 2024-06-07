@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solution to the problem set 2.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/744129fd0b7b75d8d7a48a458db71a49_ps2_key.pdf
+file_size: 104386
 file_type: application/pdf
 learning_resource_types:
 - Assignments
