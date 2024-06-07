@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about chronic myelogenous leukemia.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/07b12c190598beb10e4c8cfd6d3b6154_lecture20.pdf
+file_size: 84591
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses about goals of medical genetics and evidence
   supporting a genetic basis for a clinical observation.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/48ec9739fcea532d1f78b5a97650eed6_lecture01.pdf
+file_size: 819363
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
