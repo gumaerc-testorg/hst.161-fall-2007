@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about diagnostic criteria and exclusion
   criteria of rett syndrome.
-file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/662e2e97b6538b21d1f869e7e31d2680_lecture16.pdf
+file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/662e2e97b6538b21d1f869e7e31d2680_lecture16.pdf
 file_size: 68511
 file_type: application/pdf
 learning_resource_types:

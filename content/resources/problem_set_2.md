@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a practice task for the students.
-file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/5bd8d45238c661bfd676bd52f792d062_problem_set_2.pdf
+file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/5bd8d45238c661bfd676bd52f792d062_problem_set_2.pdf
 file_size: 131924
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains quizes related to this course.
-file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/46c3195978d1a2b7ea52f7fb564818d3_pract_final_sol.pdf
+file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/46c3195978d1a2b7ea52f7fb564818d3_pract_final_sol.pdf
 file_size: 267829
 file_type: application/pdf
 learning_resource_types:
