@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about PKU is an inborn (genetic) error
   of metabolism.
-file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/454e60c955fd9e95565d44fda068168c_lecture11.pdf
+file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/454e60c955fd9e95565d44fda068168c_lecture11.pdf
 file_size: 85197
 file_type: application/pdf
 learning_resource_types:

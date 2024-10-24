@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains inforamtion about thalassemias.
-file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/b208248083e4ec1a2a11a0387b61c60a_lecture05.pdf
+file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/b208248083e4ec1a2a11a0387b61c60a_lecture05.pdf
 file_size: 31436
 file_type: application/pdf
 learning_resource_types:
