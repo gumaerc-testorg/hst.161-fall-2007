@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/8e99753cb130aca669f5fe52628d3d7a_hst-161f07-th.jpg
+file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/8e99753cb130aca669f5fe52628d3d7a_hst-161f07-th.jpg
 file_size: 5044
 file_type: image/jpeg
 image_metadata:

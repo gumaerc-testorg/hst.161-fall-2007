@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about the normal motor unit, the motoneuron and
   the neuromuscular junction.
-file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/1c5959ee06beec3d44a57e75b7e44708_lecture03_hand.pdf
+file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/1c5959ee06beec3d44a57e75b7e44708_lecture03_hand.pdf
 file_size: 50802
 file_type: application/pdf
 learning_resource_types:
