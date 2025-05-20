@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solution to problem set 3.
-file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/66f7bad2b19dc6c1eab8f83bb9a066ba_ps3_key.pdf
+file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/66f7bad2b19dc6c1eab8f83bb9a066ba_ps3_key.pdf
 file_size: 33185
 file_type: application/pdf
 learning_resource_types:

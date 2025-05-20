@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about thalassemias, hemoglobinopathies and thalassemias.
-file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/956efc33a5432a81bd1d01fe668a6d46_lecture06_housma.pdf
+file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/956efc33a5432a81bd1d01fe668a6d46_lecture06_housma.pdf
 file_size: 676765
 file_type: application/pdf
 learning_resource_types:

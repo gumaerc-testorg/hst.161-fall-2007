@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about hypertrophic cardiomyopathy.
-file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/4a623f2d3c7bee27f04e59d61b4ed1d4_lecture02.pdf
+file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/4a623f2d3c7bee27f04e59d61b4ed1d4_lecture02.pdf
 file_size: 43214
 file_type: application/pdf
 learning_resource_types:
