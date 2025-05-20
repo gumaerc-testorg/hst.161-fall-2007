@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about mithochondrial disorders.
-file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/d2f967ef36a90a552b3966b2ddba5041_lecture07.pdf
+file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/d2f967ef36a90a552b3966b2ddba5041_lecture07.pdf
 file_size: 74878
 file_type: application/pdf
 learning_resource_types:

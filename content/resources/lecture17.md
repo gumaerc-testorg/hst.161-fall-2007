@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about FSHD: deletion and expansion
   syndromes.'
-file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/2b101e1523c7bf1f4a1513aecbce6bdb_lecture17.pdf
+file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/2b101e1523c7bf1f4a1513aecbce6bdb_lecture17.pdf
 file_size: 67176
 file_type: application/pdf
 learning_resource_types:

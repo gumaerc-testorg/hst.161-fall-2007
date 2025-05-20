@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about colon cancer.
-file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/21374e33e480ac1f5026d1b5584797cb_lecture19.pdf
+file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/21374e33e480ac1f5026d1b5584797cb_lecture19.pdf
 file_size: 126898
 file_type: application/pdf
 learning_resource_types:
