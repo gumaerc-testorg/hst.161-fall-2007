@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about williams syndrome.
-file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/c174d697c16cff33655e0235831a1eea_lecture10.pdf
+file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/c174d697c16cff33655e0235831a1eea_lecture10.pdf
 file_size: 117652
 file_type: application/pdf
 learning_resource_types:
