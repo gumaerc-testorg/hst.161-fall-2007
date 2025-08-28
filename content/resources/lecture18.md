@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about cancer genetics.
-file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/531842ddec9fe95d827508c533cb4c84_lecture18.pdf
+file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/531842ddec9fe95d827508c533cb4c84_lecture18.pdf
 file_size: 79685
 file_type: application/pdf
 learning_resource_types:
