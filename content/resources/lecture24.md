@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about how do you determine where the
   cause of a genetic disease is? -what is the cause? genetic factors? environmental
   factors?
-file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/642617b3a6e5ae42e5c443ad4b281b99_lecture24.pdf
+file: /ol-ocw-studio-app/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/642617b3a6e5ae42e5c443ad4b281b99_lecture24.pdf
 file_size: 145258
 file_type: application/pdf
 learning_resource_types:
