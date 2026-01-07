@@ -251,7 +251,7 @@ Sebat, Jonathan, et al. "Strong Associations of De Novo Copy Number Mutations wi
 
 Iafrate, A. John, Lars Feuk, Miguel N. Rivera, Marc L. Listewnik, Patricia K. Donahoe, Ying Qi, Stephen W. Scherer, and Charles Lee. "Detection of Large-scale Variation in the Human Genome." _Nature Genetics_ 36 (2004): 949-951.
 
-{{% resource_link "ac8c96c7-f6bd-45a4-b3cc-b5971bb6240f" "OMIM: Autism" %}}
+[OMIM: Autism](https://www.ncbi.nlm.nih.gov/omim?Db=omim&Cmd=DetailsSearch&Term=Autism)
 
 ### Problem set 2 reading
 
@@ -317,7 +317,7 @@ Genetic deafness
 
 Tsakiri, Kalliopi D., et al. "Adult-onset Pulmonary Fibrosis Caused by Mutations in Telomerase." _PNAS_ 104 (2007): 7552-7557.
 
-{{% resource_link "1ebbd3c6-cfe9-4bdd-a5c0-767ec6a79e9a" "Molecular Biology of The Cell" %}}
+[Molecular Biology of The Cell](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.TOC&depth=2)
 
 ### For reading assignment 3
 
@@ -381,7 +381,7 @@ Puccio, Helene, and Michel Koenig. "Friedreich Ataxia: A Paradigm for Mitochondr
 Epigenetics/imprinting/X-inactivation
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "687af5ea-51ae-4b50-9386-43b55d4308cb" "Hydatiform Mole" %}}
+[Hydatiform Mole](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1050289/)
 {{< tdclose >}}
 
 {{< trclose >}}
